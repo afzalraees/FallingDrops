@@ -1,0 +1,5 @@
+Keystore Password - fallerdr00pper
+Keystore Alias - alias
+Keystore Alias Password - fallerdr00pper
+Package Name - com.s3atour.fallerdr00pper
+Version - 1.0
